@@ -8,7 +8,7 @@ MS-MuraNet: Knowledge-Driven Multi-scale Feature Enhancement Network for Detecti
 
 <div align="center">
   <p>
-        <img src="exp.png" width="220">
+        <img src="exp.png" >
     </a>
 </p>
 </div>
