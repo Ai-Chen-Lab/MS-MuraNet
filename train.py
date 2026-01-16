@@ -6,7 +6,7 @@ from torch.utils.data import DataLoader
 from torchvision import transforms
 import torch.optim as optim
 from data_loader_oral import RescaleT, RandomCrop, ToTensorLab, SalObjDataset
-from model.Net6_1 import Net
+from model.MS-MuraNet import Net
 import pytorch_ssim
 import pytorch_iou
 from torch.backends import cudnn
