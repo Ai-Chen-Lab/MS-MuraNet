@@ -6,7 +6,7 @@ from torch.utils.data import DataLoader
 from torchvision import transforms
 from PIL import Image
 from data_loader_3kinds import RescaleT, RandomCrop, ToTensorLab, SalObjDataset
-from model.Net_new4 import Net
+from model.MS-MuraNet import Net
 import glob
 import numpy as np
 import timeit
